@@ -1,2 +1,2 @@
 # S-pider
-Space Range
+Space Range named spiderange
